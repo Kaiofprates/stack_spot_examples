@@ -16,12 +16,5 @@ flowchart TD
     E --> L
     F --> L
     K --> L
-
-    style D fill:#f96,stroke:#333,stroke-width:2px
-    style E fill:#f96,stroke:#333,stroke-width:2px
-    style F fill:#f96,stroke:#333,stroke-width:2px
-    style G fill:#6f6,stroke:#333,stroke-width:2px
-    style I fill:#6f6,stroke:#333,stroke-width:2px
-    style K fill:#6f6,stroke:#333,stroke-width:2px
 ```
 
